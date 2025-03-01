@@ -1,5 +1,6 @@
 ### 👋
 
+![GitHub User's stars](https://img.shields.io/github/stars/jacobqvist?style=social)
 
 
 <!--
